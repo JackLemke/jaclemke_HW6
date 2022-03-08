@@ -1,1 +1,20 @@
 body{background-color: lightblue;}
+
+/* body formatting */
+body {margin: 50px;}
+
+/* Main header color */
+h1 {color: darkblue;}
+
+/* Small header colors */
+h3 {color: blue; font-style: italic;}
+
+/* CSS class color for "Iowa" */
+.Iowa {color: gold; font-weight: bold;}
+
+/* CSS IDs*/
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1px;
+    margin: 10px;
