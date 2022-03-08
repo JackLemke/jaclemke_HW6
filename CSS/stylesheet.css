@@ -1,7 +1,14 @@
-body{background-color: lightblue;}
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    line-height: 1;
+}
 
-/* body formatting */
-body {margin: 50px;}
+body {
+    background-color: lightblue;
+    margin: 25px
+}
 
 /* Main header color formatting */
 h1 {color: darkblue;}
